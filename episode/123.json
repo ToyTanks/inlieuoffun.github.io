@@ -1,0 +1,18 @@
+{
+  "episode": {
+    "episode": 123,
+    "airDate": "2020-07-27",
+    "topics": "polling, politics, and shibboleths",
+    "crowdcastURL": "https://www.crowdcast.io/e/in-lieu-of-fun-episode-17",
+    "youTubeURL": "https://www.youtube.com/watch?v=SEXWmPyt90c",
+    "guestNames": [
+      "Clare Malone"
+    ],
+    "links": [
+      {
+        "title": "FiveThirtyEight",
+        "url": "https://fivethirtyeight.com/"
+      }
+    ]
+  }
+}

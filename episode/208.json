@@ -1,0 +1,19 @@
+{
+  "episode": {
+    "episode": 208,
+    "airDate": "2020-10-20",
+    "summary": "Discussing Emily's recent article on the future of free speech and disinformation",
+    "crowdcastURL": "https://www.crowdcast.io/e/in-lieu-of-fun-episode-102",
+    "youTubeURL": "https://www.youtube.com/watch?v=BvhCIt-mGXA",
+    "guestNames": [
+      "Emily Bazelon",
+      "Sarah Longwell"
+    ],
+    "links": [
+      {
+        "title": "NYT Magazine",
+        "url": "https://www.nytimes.com/2020/10/13/magazine/free-speech.html"
+      }
+    ]
+  }
+}

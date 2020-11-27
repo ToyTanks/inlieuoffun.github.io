@@ -1,0 +1,18 @@
+{
+  "episode": {
+    "episode": 40,
+    "airDate": "2020-05-05",
+    "summary": "Physician specializing in family medicine and HIV at Callen Lorde, which provides services and care to NYC’s LGBTQ community",
+    "topics": "medicine, quarantine, the plague",
+    "youTubeURL": "https://www.youtube.com/watch?v=A-sAEYCSQ7c",
+    "guestNames": [
+      "Will DeWitt"
+    ],
+    "links": [
+      {
+        "title": "Callen-Lorde",
+        "url": "https://callen-lorde.org/meet-our-providers/"
+      }
+    ]
+  }
+}

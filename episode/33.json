@@ -1,0 +1,18 @@
+{
+  "episode": {
+    "episode": 33,
+    "airDate": "2020-04-28",
+    "summary": "Former U.S. Attorney for the Southern District of New York and podcaster",
+    "topics": "crime, prosecution, law",
+    "youTubeURL": "https://www.youtube.com/watch?v=xSCPjSMk6oo",
+    "guestNames": [
+      "Preet Bharara"
+    ],
+    "links": [
+      {
+        "title": "podcast",
+        "url": "https://cafe.com/stay-tuned-podcast/"
+      }
+    ]
+  }
+}

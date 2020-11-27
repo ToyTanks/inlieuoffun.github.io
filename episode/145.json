@@ -1,0 +1,18 @@
+{
+  "episode": {
+    "episode": 145,
+    "airDate": "2020-08-18",
+    "summary": "Discussing Jack's new book",
+    "crowdcastURL": "https://www.crowdcast.io/e/in-lieu-of-fun-episode-39",
+    "youTubeURL": "https://www.youtube.com/watch?v=hP32YJaaZYo",
+    "guestNames": [
+      "Jack Balkin"
+    ],
+    "links": [
+      {
+        "title": "Cycles of Constitutional Time",
+        "url": "https://global.oup.com/academic/product/the-cycles-of-constitutional-time-9780197530993"
+      }
+    ]
+  }
+}

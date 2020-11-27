@@ -1,0 +1,1572 @@
+{
+  "guests": [
+    {
+      "name": "John Sipher",
+      "episodes": [
+        246
+      ],
+      "twitter": "john_sipher",
+      "url": "https://www.linkedin.com/in/john-sipher-93a41382/",
+      "notes": "Project Lincoln, Spycraft Entertainment; former CIA clandestine service"
+    },
+    {
+      "name": "Jennifer Mercieca",
+      "episodes": [
+        244
+      ],
+      "twitter": "jenmercieca",
+      "url": "http://jennifermercieca.com",
+      "notes": "Historian of American political rhetoric, author"
+    },
+    {
+      "name": "Jack Goldsmith",
+      "episodes": [
+        242
+      ],
+      "twitter": "jacklgoldsmith",
+      "url": "http://jackgoldsmith.org",
+      "notes": "Lawfare co-founder, law professor, senior fellow at Hoover Institute"
+    },
+    {
+      "name": "The Audience",
+      "episodes": [
+        239,
+        241
+      ],
+      "notes": "The members of the audience when they appear as guests"
+    },
+    {
+      "name": "Alessandro Nivola",
+      "episodes": [
+        238
+      ],
+      "twitter": "SandroNivola",
+      "url": "https://Instagram.com/alessandro.nivola/"
+    },
+    {
+      "name": "David Allen Green",
+      "episodes": [
+        231
+      ],
+      "twitter": "davidallengreen",
+      "url": "https://davidallengreen.com/",
+      "notes": "Lawyer, commentator on law and policy; contributing editor at Financial Times"
+    },
+    {
+      "name": "Bill Galston",
+      "episodes": [
+        228
+      ],
+      "twitter": "BillGalston",
+      "url": "http://www.brookings.edu/experts/galstonw",
+      "notes": "Senior Fellow at Brookings Institution; columnist at Wall Street Journal"
+    },
+    {
+      "name": "Election 2020 Panel",
+      "episodes": [
+        221
+      ],
+      "notes": "A rotating panel of former guests come to discuss current events"
+    },
+    {
+      "name": "Kashmir Hill",
+      "episodes": [
+        215
+      ],
+      "twitter": "kashhill",
+      "url": "https://www.nytimes.com/by/kashmir-hill",
+      "notes": "Journalist at New York Times, reporting on privacy and technology"
+    },
+    {
+      "name": "Laura Rosenberger",
+      "episodes": [
+        214
+      ],
+      "twitter": "rosenbergerlm",
+      "url": "http://www.securingdemocracy.org",
+      "notes": "Director of Alliance for Security Democracy; German Marshall Fund; former State Department"
+    },
+    {
+      "name": "Samm Sacks",
+      "episodes": [
+        213
+      ],
+      "twitter": "SammSacks",
+      "url": "https://law.yale.edu/samm-sacks",
+      "notes": "Senior fellow at Yale Law School, focusing on information & communications tech policy in China"
+    },
+    {
+      "name": "Brian Beutler",
+      "episodes": [
+        211
+      ],
+      "twitter": "brianbeutler",
+      "url": "http://crooked.com/bigtent",
+      "notes": "Editor-in-Chief of Crooked Media; writer on politics, podcaster"
+    },
+    {
+      "name": "Scott Hechinger",
+      "episodes": [
+        210
+      ],
+      "twitter": "ScottHech",
+      "url": "http://Zealo.us",
+      "notes": "Public defender, director of the Zealous Project at the Justice Collaborative"
+    },
+    {
+      "name": "Annie Karni",
+      "episodes": [
+        206
+      ],
+      "twitter": "anniekarni",
+      "notes": "White House correspondent for the New York Times"
+    },
+    {
+      "name": "Daniel Klaidman",
+      "episodes": [
+        204
+      ],
+      "twitter": "dklaidman",
+      "url": "http://yahoo.com/news/politics",
+      "notes": "Editor-in-Chief of Yahoo News; co-host of Skullduggery podcast; formerly Newsweek"
+    },
+    {
+      "name": "Kate Shaw",
+      "episodes": [
+        203
+      ],
+      "twitter": "kateashaw1",
+      "url": "https://cardozo.yu.edu/directory/kate-shaw",
+      "notes": "Law professor, co-host of Strict Scrutiny podcast; former White House lawyer"
+    },
+    {
+      "name": "Kate Gage",
+      "episodes": [
+        199
+      ],
+      "twitter": "kategage",
+      "url": "https://ash.harvard.edu/people/kate-gage",
+      "notes": "Founding partner at The Movement Cooperative; formerly USAID, Obama administration"
+    },
+    {
+      "name": "Barton Gellman",
+      "episodes": [
+        196
+      ],
+      "twitter": "bartongellman",
+      "url": "https://bartongellman.com",
+      "notes": "Staff writer at The Atlantic; author; senior fellow at The Century Foundation"
+    },
+    {
+      "name": "Peter Strzok",
+      "episodes": [
+        195
+      ],
+      "twitter": "petestrzok",
+      "notes": "FBI and Army veteran; author"
+    },
+    {
+      "name": "Natasha Bertrand",
+      "episodes": [
+        194
+      ],
+      "twitter": "NatashaBertrand",
+      "url": "https://www.politico.com/staff/natasha-bertrand",
+      "notes": "National security correspondent at Politico, MSNBC contributor"
+    },
+    {
+      "name": "Camille Busette",
+      "episodes": [
+        193
+      ],
+      "twitter": "CamilleBusette",
+      "url": "http://www.brookings.edu",
+      "notes": "Brookings Institution Senior Fellow in Governance Studies; director of Race, Prosperity & Inclusion"
+    },
+    {
+      "name": "Michael Sean Winters",
+      "episodes": [
+        192
+      ],
+      "twitter": "MichaelSWinters",
+      "url": "https://www.ncronline.org/columns/distinctly-catholic",
+      "notes": "Writer for the National Catholic Reporter and The Tablet"
+    },
+    {
+      "name": "Windsor Mann",
+      "episodes": [
+        190,
+        225
+      ],
+      "twitter": "WindsorMann",
+      "url": "https://theweek.com/authors/windsor-mann",
+      "notes": "Contributor at USA Today and The Week, Project Lincoln advisor, author"
+    },
+    {
+      "name": "Tom Nichols",
+      "episodes": [
+        188
+      ],
+      "twitter": "RadioFreeTom",
+      "url": "https://www.facebook.com/DeathOfExpertise/",
+      "notes": "Professor, author; senior adviser to The Lincoln Project"
+    },
+    {
+      "name": "Jason Leopold",
+      "episodes": [
+        187
+      ],
+      "twitter": "JasonLeopold",
+      "url": "https://www.buzzfeednews.com/author/jasonleopold",
+      "notes": "Senior investigative reporter at BuzzFeed News"
+    },
+    {
+      "name": "Brian Christian",
+      "episodes": [
+        186
+      ],
+      "twitter": "brianchristian",
+      "url": "https://brianchristian.org/",
+      "notes": "Non-fiction author, poet, programmer, and researcher"
+    },
+    {
+      "name": "Anne Applebaum",
+      "episodes": [
+        183
+      ],
+      "twitter": "anneapplebaum",
+      "url": "http://www.anneapplebaum.com",
+      "notes": "Staff writer at The Atlantic; senior fellow at JHU SAIS; author"
+    },
+    {
+      "name": "David Frum",
+      "episodes": [
+        179
+      ],
+      "twitter": "davidfrum",
+      "url": "http://www.davidfrum.com",
+      "notes": "Senior editor at The Atlantic and prolific author"
+    },
+    {
+      "name": "Lisa Kaplan",
+      "episodes": [
+        178
+      ],
+      "twitter": "lisackaplan",
+      "notes": "Founder of Alethea Group; campaign consultant, and former U.S. Senate aide"
+    },
+    {
+      "name": "Kate Starbird",
+      "episodes": [
+        176
+      ],
+      "twitter": "katestarbird",
+      "url": "http://faculty.washington.edu/kstarbi/publications.html",
+      "notes": "Associate Professor at University of Washington; researcher of crisis informatics"
+    },
+    {
+      "name": "Bianna Golodryga",
+      "episodes": [
+        175
+      ],
+      "twitter": "biannagolodryga",
+      "url": "http://biannagolodryga.com",
+      "notes": "Journalist, CNN Senior Global Affairs analyst"
+    },
+    {
+      "name": "Mai El-Sadany",
+      "episodes": [
+        174
+      ],
+      "twitter": "maitelsadany",
+      "notes": "Human rights lawyer; Managing Director at Tahrir Institute for Middle East Policy (TIMEP)"
+    },
+    {
+      "name": "Joshua Tucker",
+      "episodes": [
+        173
+      ],
+      "twitter": "j_a_tucker",
+      "url": "https://wp.nyu.edu/fas-joshuatucker/",
+      "notes": "Professor of Politics at NYU; Director, Jordan Center for Advanced Study of Russia"
+    },
+    {
+      "name": "Michael Isikoff",
+      "episodes": [
+        172
+      ],
+      "twitter": "Isikoff",
+      "notes": "Chief investigative correspondent at Yahoo News; co-host of the \"Skullduggery\" podcast"
+    },
+    {
+      "name": "Ben Smith",
+      "episodes": [
+        169
+      ],
+      "twitter": "benyt",
+      "notes": "New York Times media columnist, former (founding) editor-in-chief of Buzzfeed News"
+    },
+    {
+      "name": "Emily Bazelon",
+      "episodes": [
+        168,
+        208
+      ],
+      "twitter": "emilybazelon",
+      "url": "https://emilybazelon.com/",
+      "notes": "Writer at NYT Magazine; co-host of Slate Political Gabfest, Truman Capote Fellow at Yale Law School"
+    },
+    {
+      "name": "Carl T. Bergstrom",
+      "episodes": [
+        167
+      ],
+      "twitter": "CT_Bergstrom",
+      "url": "http://ctbergstrom.com",
+      "notes": "Professor of Biology studying information flow; lover of crows and ravens"
+    },
+    {
+      "name": "Jamelle Bouie",
+      "episodes": [
+        166
+      ],
+      "twitter": "jbouie",
+      "url": "https://www.nytimes.com/column/jamelle-bouie",
+      "notes": "NYT Opinion columnist and political analyst for CBS News"
+    },
+    {
+      "name": "Cynthia Estlund",
+      "episodes": [
+        165
+      ],
+      "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=25449",
+      "notes": "Law professor and a leading scholar of labor, employment law, and workplace governance"
+    },
+    {
+      "name": "Ian Enright",
+      "episodes": [
+        164
+      ],
+      "twitter": "GoatRodeoDC",
+      "url": "https://www.goatrodeodc.com/",
+      "notes": "Founder and CEO of Goat Rodeo, an audio network and creative agency in Washington D.C."
+    },
+    {
+      "name": "Adam Davidson",
+      "episodes": [
+        162
+      ],
+      "twitter": "adamdavidson",
+      "url": "http://www.adamdavidson.com",
+      "notes": "CEO of Three Uncanny Four, founder of the NPR \"Planet Money\" podcast, author and reporter"
+    },
+    {
+      "name": "Michel Paradis",
+      "episodes": [
+        160
+      ],
+      "twitter": "MDParadis",
+      "url": "http://www.michelparadis.com/",
+      "notes": "Military commission defense lawyer, author"
+    },
+    {
+      "name": "Jeremy Sheff",
+      "episodes": [
+        157
+      ],
+      "twitter": "jnsheff",
+      "url": "https://www.stjohns.edu/law/faculty/jeremy-sheff",
+      "notes": "Law professor; Intellectual Property Law Center, St. John's University"
+    },
+    {
+      "name": "Richard Pildes",
+      "episodes": [
+        153
+      ],
+      "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20200",
+      "notes": "Lawyer, scholar of constitutional law; former clerk to Justice Thurgood Marshall; AAAS/ALI"
+    },
+    {
+      "name": "Rachel \"The Doc\" Bitecofer",
+      "episodes": [
+        152,
+        155
+      ],
+      "twitter": "RachelBitecofer",
+      "url": "https://www.niskanencenter.org/author/rachel-bitecofer",
+      "notes": "Election forecaster; host of the \"Election Whisperer\" podcast; Lincoln Project senior advisor"
+    },
+    {
+      "name": "Charlie Sykes",
+      "episodes": [
+        151
+      ],
+      "twitter": "SykesCharlie",
+      "notes": "Founder & editor-at-large of The Bulwark; host of the Bulwark podcast"
+    },
+    {
+      "name": "Anne Milgram",
+      "episodes": [
+        150
+      ],
+      "twitter": "AnneMilgram",
+      "url": "https://www.lowenstein.com/people/attorneys/anne-milgram",
+      "notes": "Professor of Practice at NYU Law; co-host of \"Cafe Insider\" podcast; legal analyst"
+    },
+    {
+      "name": "Jameel Jaffer",
+      "episodes": [
+        144
+      ],
+      "twitter": "JameelJaffer",
+      "notes": "Director of Knight 1st Amendment Institute; former Deputy Legal Director at ACLU"
+    },
+    {
+      "name": "Natalie Jackson",
+      "episodes": [
+        141,
+        235
+      ],
+      "twitter": "nataliemj10",
+      "notes": "Research Director at the Public Religion Research Institute"
+    },
+    {
+      "name": "Richard R. John",
+      "episodes": [
+        140
+      ],
+      "twitter": "RrjohnR",
+      "url": "https://journalism.columbia.edu/faculty/richard-r-john",
+      "notes": "Professor of Journalism; history of the U.S. Post Office"
+    },
+    {
+      "name": "G. Elliott Morris",
+      "episodes": [
+        139
+      ],
+      "twitter": "gelliottmorris",
+      "url": "https://gelliottmorris.com/",
+      "notes": "Data journalist at The Economist; polls, modeling, and democracy"
+    },
+    {
+      "name": "Josh Chafetz",
+      "episodes": [
+        138
+      ],
+      "twitter": "joshchafetz",
+      "url": "https://www.law.georgetown.edu/faculty/josh-chafetz/",
+      "notes": "Law professor; author"
+    },
+    {
+      "name": "Julian Davis Mortenson",
+      "episodes": [
+        136
+      ],
+      "twitter": "jdmortenson",
+      "url": "https://www.theatlantic.com/author/julian-davis-mortenson/",
+      "notes": "Law professor; presidential power & constitutional history"
+    },
+    {
+      "name": "Janet Turk Wittes",
+      "episodes": [
+        134
+      ],
+      "notes": "Statistician and expert on clinical trials; founder of Statistics Collaborative"
+    },
+    {
+      "name": "Deepak Gupta",
+      "episodes": [
+        133
+      ],
+      "twitter": "deepakguptalaw",
+      "url": "http://guptawessler.com/people/deepak-gupta/",
+      "notes": "Supreme Court & appellate advocate; lecturer at Harvard Law"
+    },
+    {
+      "name": "Allegra Love",
+      "episodes": [
+        129
+      ],
+      "url": "http://www.santafedreamersproject.org/who-we-are",
+      "notes": "Immigration attorney specializing in border and refugee issues"
+    },
+    {
+      "name": "Kara Swisher",
+      "episodes": [
+        130
+      ],
+      "twitter": "karaswisher",
+      "notes": "Tech journalist, host of \"The Pivot\" podcast"
+    },
+    {
+      "name": "Katie Phang",
+      "episodes": [
+        127
+      ],
+      "twitter": "KatiePhang",
+      "url": "https://katiephang.com/",
+      "notes": "Miami-based attorney and MSNBC legal contributor"
+    },
+    {
+      "name": "Alexandra Petri",
+      "episodes": [
+        126,
+        218
+      ],
+      "twitter": "petridishes",
+      "url": "https://www.washingtonpost.com/people/alexandra-petri/",
+      "notes": "Washington Post humor columnist"
+    },
+    {
+      "name": "Clare Malone",
+      "episodes": [
+        123
+      ],
+      "twitter": "ClareMalone",
+      "url": "https://www.claremalone.net/",
+      "notes": "Senior political writer for FiveThirtyEight"
+    },
+    {
+      "name": "Daniel Radosh",
+      "episodes": [
+        122
+      ],
+      "twitter": "danielradosh",
+      "notes": "Senior writer for The Daily Show"
+    },
+    {
+      "name": "Steven Levy",
+      "episodes": [
+        120
+      ],
+      "twitter": "StevenLevy",
+      "url": "https://stevenlevy.com/",
+      "notes": "Editor-at-large at Wired; author"
+    },
+    {
+      "name": "Andy Slavitt",
+      "episodes": [
+        119
+      ],
+      "twitter": "ASlavitt",
+      "url": "https://bipartisanpolicy.org/person/andy-slavitt",
+      "notes": "Host of \"In the Bubble\" podcast; formerly Centers for Medicare & Medicaid Services"
+    },
+    {
+      "name": "Ross Trudeau",
+      "episodes": [
+        118
+      ],
+      "twitter": "TrudeauRoss",
+      "url": "https://rosswordpuzzles.com/",
+      "notes": "Crossword puzzle constructor for the New York Times"
+    },
+    {
+      "name": "Josh Sharfstein",
+      "episodes": [
+        116
+      ],
+      "twitter": "drJoshS",
+      "url": "https://www.jhsph.edu/faculty/directory/profile/1781/joshua-m-sharfstein",
+      "notes": "Faculty, Bloomberg School of Public Health; author, co-host of \"Public Health On Call\" podcast"
+    },
+    {
+      "name": "Charlie Warzel",
+      "episodes": [
+        113
+      ],
+      "twitter": "cwarzel",
+      "url": "https://www.nytimes.com/by/charlie-warzel",
+      "notes": "Writer-at-large for New York Times Opinion, covering the information wars"
+    },
+    {
+      "name": "Jill Filipovic",
+      "episodes": [
+        111,
+        146
+      ],
+      "twitter": "JillFilipovic",
+      "url": "http://jillfilipovic.com/",
+      "notes": "Lawyer, author, journalist, and feminist"
+    },
+    {
+      "name": "Ian Heath Gershengorn",
+      "episodes": [
+        110
+      ],
+      "url": "https://jenner.com/people/IanGershengorn",
+      "notes": "Supreme Court litigator; former Deputy/Acting Solicitor General at DoJ"
+    },
+    {
+      "name": "Jeff Jarvis",
+      "episodes": [
+        109
+      ],
+      "twitter": "jeffjarvis",
+      "url": "https://buzzmachine.com/",
+      "notes": "Journalism professor at Craig Newmark Graduate School of Journalism (CUNY)"
+    },
+    {
+      "name": "Andrew Marantz",
+      "episodes": [
+        108
+      ],
+      "twitter": "andrewmarantz",
+      "notes": "Staff writer at The New Yorker"
+    },
+    {
+      "name": "Alex Shephard",
+      "episodes": [
+        106
+      ],
+      "twitter": "alex_shephard",
+      "url": "https://newrepublic.com/authors/alex-shephard",
+      "notes": "Staff writer at The New Republic"
+    },
+    {
+      "name": "Thomas Berg",
+      "episodes": [
+        104
+      ],
+      "twitter": "tcbergmn",
+      "url": "https://fedsoc.org/contributors/thomas-berg",
+      "notes": "Law professor; constitutional law & intellectual property"
+    },
+    {
+      "name": "Carrie Johnson",
+      "episodes": [
+        103,
+        236
+      ],
+      "twitter": "johnson_carrie",
+      "url": "https://www.npr.org/people/127410674/carrie-johnson",
+      "notes": "NPR Justice Department correspondent"
+    },
+    {
+      "name": "Wilfred U. Codrington III",
+      "episodes": [
+        102
+      ],
+      "twitter": "wuc3",
+      "notes": "Law professor at Brooklyn Law School; constitutional law"
+    },
+    {
+      "name": "David Priess",
+      "episodes": [
+        101,
+        181,
+        227
+      ],
+      "twitter": "DavidPriess",
+      "url": "https://www.publicaffairsbooks.com/contributor/david-priess/",
+      "notes": "Author, speaker, writer; COO at Lawfare; former CIA"
+    },
+    {
+      "name": "Claudia Deane",
+      "episodes": [
+        99
+      ],
+      "twitter": "c_deane",
+      "url": "https://www.pewresearch.org/staff/claudia-deane/",
+      "notes": "Vice President of Research at Pew Research Center"
+    },
+    {
+      "name": "Jordan Schneider",
+      "episodes": [
+        97
+      ],
+      "twitter": "jordanschnyc",
+      "url": "https://chinatalk.substack.com/",
+      "notes": "Host of the \"ChinaTalk\" podcast"
+    },
+    {
+      "name": "Scott Anderson",
+      "episodes": [
+        95
+      ]
+    },
+    {
+      "name": "Mike Godwin",
+      "episodes": [
+        94
+      ],
+      "twitter": "sfmnemonic",
+      "notes": "Lawyer, author; EFF; creator of an eponymous law"
+    },
+    {
+      "name": "Dan Byman",
+      "episodes": [
+        92
+      ],
+      "twitter": "dbyman",
+      "url": "https://www.brookings.edu/experts/daniel-l-byman/",
+      "notes": "Senior Fellow, Brookings Center for Middle-East Policy; on counterterrorism and Middle East security"
+    },
+    {
+      "name": "Camille François",
+      "episodes": [
+        91
+      ],
+      "twitter": "camillefrancois",
+      "notes": "Chief innovation officer of Graphika"
+    },
+    {
+      "name": "Jonathan Zittrain",
+      "episodes": [
+        90
+      ],
+      "twitter": "zittrain",
+      "url": "https://blogs.harvard.edu/jzwrites/",
+      "notes": "Professor of International Law at Harvard Law School"
+    },
+    {
+      "name": "Thomas Rid",
+      "episodes": [
+        89
+      ],
+      "twitter": "RidT",
+      "url": "https://ridt.co/",
+      "notes": "Cybersecurity & information warfare expert; author of a history of information operations"
+    },
+    {
+      "name": "Julian Sanchez",
+      "episodes": [
+        88
+      ],
+      "twitter": "normative",
+      "url": "http://www.juliansanchez.com/",
+      "notes": "Writer, policy analyst, and journalist; Cato Institute Senior Fellow"
+    },
+    {
+      "name": "Adam Serwer",
+      "episodes": [
+        88
+      ],
+      "twitter": "AdamSerwer",
+      "url": "https://www.theatlantic.com/author/adam-serwer/",
+      "notes": "Staff writer at The Atlantic, covering politics"
+    },
+    {
+      "name": "Rick Wilson",
+      "episodes": [
+        87,
+        200
+      ],
+      "twitter": "TheRickWilson",
+      "url": "http://www.therickwilson.com/",
+      "notes": "Author, troublemaker, political strategist, member of The Lincoln Project"
+    },
+    {
+      "name": "Steve Vladeck",
+      "episodes": [
+        86,
+        114,
+        237
+      ],
+      "twitter": "steve_vladeck",
+      "url": "https://law.utexas.edu/faculty/stephen-i-vladeck/",
+      "notes": "Law professor; federal courts, constitutional law, national security, military justice"
+    },
+    {
+      "name": "Kathleen Belew",
+      "episodes": [
+        85,
+        126,
+        201
+      ],
+      "twitter": "kathleen_belew",
+      "url": "https://www.kathleenbelew.com/",
+      "notes": "Historian of white supremacist movements, at the University of Chicago"
+    },
+    {
+      "name": "Marty Lederman",
+      "episodes": [
+        84,
+        86,
+        95,
+        104,
+        105
+      ],
+      "twitter": "marty_lederman",
+      "notes": "Law professor at Georgetown University, formerly a Department of Justice official"
+    },
+    {
+      "name": "Susan Hennessey",
+      "episodes": [
+        83,
+        177
+      ],
+      "twitter": "Susan_Hennessey",
+      "url": "https://www.brookings.edu/experts/susan-hennessey",
+      "notes": "Executive editor of Lawfare and senior fellow at Brookings and a former NSA lawyer"
+    },
+    {
+      "name": "Alina Polyakova",
+      "episodes": [
+        82
+      ],
+      "twitter": "apolyakova",
+      "notes": "President and CEO of the Center for European Policy Analysis (CEPA)"
+    },
+    {
+      "name": "Anthony Michael Kries",
+      "episodes": [
+        81
+      ],
+      "twitter": "AnthonyMKreis",
+      "url": "https://law.gsu.edu/profile/anthony-kreis/",
+      "notes": "Law professor, constitutional law, civil rights, anti-discrimination, social change"
+    },
+    {
+      "name": "Catherine Rampell",
+      "episodes": [
+        78
+      ],
+      "twitter": "crampell",
+      "url": "https://www.washingtonpost.com/people/catherine-rampell/",
+      "notes": "Columnist for The Washington Post"
+    },
+    {
+      "name": "Bill Kristol",
+      "episodes": [
+        77
+      ],
+      "twitter": "BillKristol",
+      "url": "https://conversationswithbillkristol.org/",
+      "notes": "Co-founder of the Weekly Standard and The Bulwark"
+    },
+    {
+      "name": "Matthew Miller",
+      "episodes": [
+        76,
+        124,
+        125,
+        217
+      ],
+      "twitter": "matthewamiller",
+      "url": "https://vianovo.com/people/matthew-miller",
+      "notes": "Former Director of the Office of Public Affairs for the Department of Justice"
+    },
+    {
+      "name": "Lawrence Lessig",
+      "episodes": [
+        75
+      ],
+      "twitter": "lessig",
+      "url": "https://www.lessig.org/",
+      "notes": "Roy L. Furman Professor of Law & Leadership at Harvard Law School"
+    },
+    {
+      "name": "Matt Yglesias",
+      "episodes": [
+        74
+      ],
+      "twitter": "mattyglesias",
+      "notes": "Journalist and co-founder of vox.com"
+    },
+    {
+      "name": "Gail Albert Halaban",
+      "episodes": [
+        71
+      ],
+      "twitter": "gailhalaban",
+      "url": "https://www.gailalberthalaban.com/",
+      "notes": "Photographer and creator of the window-to-window photography movement"
+    },
+    {
+      "name": "David French",
+      "episodes": [
+        70
+      ],
+      "twitter": "DavidAFrench",
+      "url": "https://frenchpress.thedispatch.com/",
+      "notes": "Legal commentator, veteran, writer; senior editor at The Dispatch; co-host of \"Advisory Opinions\" podcast"
+    },
+    {
+      "name": "Clint Watts",
+      "episodes": [
+        69
+      ],
+      "twitter": "selectedwisdom",
+      "url": "https://www.fpri.org/contributor/clint-watts/",
+      "notes": "Disinformation specialist and former FBI agent"
+    },
+    {
+      "name": "Radley Balko",
+      "episodes": [
+        66
+      ],
+      "twitter": "radleybalko",
+      "notes": "Author; opinion journalist for the Washington Post"
+    },
+    {
+      "name": "Barry Friedman",
+      "episodes": [
+        64
+      ],
+      "twitter": "barryfriedman1",
+      "url": "https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=19931",
+      "notes": "Law professor and authority on policing & criminal procedure; director of the Policing Project"
+    },
+    {
+      "name": "Eugene Volokh",
+      "episodes": [
+        63
+      ],
+      "twitter": "VolokhC",
+      "url": "https://reason.com/volokh/",
+      "notes": "Law professor, scholar of American constitutional law & libertarianism; legal blogger"
+    },
+    {
+      "name": "Paul Rosenzweig",
+      "episodes": [
+        62,
+        158
+      ],
+      "twitter": "RosenzweigP",
+      "notes": "Senior Fellow at R Street; homeland security consultant"
+    },
+    {
+      "name": "John Q. Barrett",
+      "episodes": [
+        61,
+        232
+      ],
+      "twitter": "JohnQBarrett",
+      "url": "https://www.stjohns.edu/law/faculty/john-q-barrett",
+      "notes": "Law professor; biographer of Justice Robert H. Jackson; legal historian"
+    },
+    {
+      "name": "Surya Mattu",
+      "episodes": [
+        60
+      ],
+      "twitter": "suryamattu",
+      "url": "https://www.suryamattu.com/#/",
+      "notes": "Artist; investigative journalist at The Markup"
+    },
+    {
+      "name": "Carissa Byrne Hessick",
+      "episodes": [
+        59
+      ],
+      "twitter": "CBHessick",
+      "url": "https://law.unc.edu/people/carissa-byrne-hessick",
+      "notes": "Criminal law professor; Director of the Prosecutors & Politics Project"
+    },
+    {
+      "name": "Alvin Cheung",
+      "episodes": [
+        57,
+        97
+      ],
+      "twitter": "alvinkcheung",
+      "url": "https://people.eecs.berkeley.edu/~akcheung/",
+      "notes": "Professor of Computer Science; program analysis, synthesis, database performance"
+    },
+    {
+      "name": "Ben Ponte",
+      "episodes": [
+        57
+      ],
+      "url": "http://www.benponte.com/",
+      "notes": "Visual artist, teacher, and experience creator"
+    },
+    {
+      "name": "Reginald Dwayne Betts",
+      "episodes": [
+        56
+      ],
+      "twitter": "dwaynebetts",
+      "notes": "Award-winning poet; Guggenheim and NEA Fellow; winner of the National Magazine Award"
+    },
+    {
+      "name": "Whit Stillman",
+      "episodes": [
+        55
+      ],
+      "twitter": "WhitStillman",
+      "notes": "Filmmaker and novelist"
+    },
+    {
+      "name": "Eric Landon",
+      "episodes": [
+        54
+      ],
+      "url": "https://www.instagram.com/tortus/",
+      "notes": "A master potter and designer, focused on constant refinement of form and technique"
+    },
+    {
+      "name": "Thyra Heder",
+      "episodes": [
+        53
+      ],
+      "twitter": "teerahater",
+      "url": "http://www.thyraheder.com/",
+      "notes": "Author and illustrator; storyboard & concept artist for film, television, fashion & architecture"
+    },
+    {
+      "name": "Josh Marshall",
+      "episodes": [
+        52
+      ],
+      "twitter": "joshtpm",
+      "url": "https://talkingpointsmemo.com/",
+      "notes": "Founder and reigning monarch at TPM; historian"
+    },
+    {
+      "name": "Shane Harris",
+      "episodes": [
+        50
+      ],
+      "twitter": "shaneharris",
+      "url": "http://shaneharris.com/secure-contact/",
+      "notes": "Covers intelligence & national security (Washington Post); host of \"Rational Security\" podcast"
+    },
+    {
+      "name": "Tom Wheeler",
+      "episodes": [
+        48
+      ],
+      "twitter": "tewheels",
+      "url": "https://www.brookings.edu/experts/tom-wheeler/",
+      "notes": "Entrepreneur and former chairman of the FCC"
+    },
+    {
+      "name": "Tim Miller",
+      "episodes": [
+        47,
+        96,
+        125,
+        155,
+        202,
+        224
+      ],
+      "twitter": "Timodc",
+      "url": "https://thebulwark.com/author/tim-miller/",
+      "notes": "Writer, author, journalist; Political Director of RVAT"
+    },
+    {
+      "name": "John Samples",
+      "episodes": [
+        46
+      ],
+      "twitter": "johnsamplescato",
+      "url": "https://www.cato.org/people/john-samples",
+      "notes": "Vice-president of the Cato Institute; member of Facebook Oversight Board"
+    },
+    {
+      "name": "Nicolas Suzor",
+      "episodes": [
+        46
+      ],
+      "twitter": "nicsuzor",
+      "url": "https://nic.suzor.net/",
+      "notes": "Author, law professor, member of Facebook Oversight Board"
+    },
+    {
+      "name": "Jamal Greene",
+      "episodes": [
+        46
+      ],
+      "twitter": "jamalgreene",
+      "url": "https://www.law.columbia.edu/faculty/jamal-greene",
+      "notes": "Author, law professor, co-chair of Facebook Oversight Board"
+    },
+    {
+      "name": "Emily Bell",
+      "episodes": [
+        43
+      ],
+      "twitter": "emilybell",
+      "notes": "Professor of Journalism; writer for Columbia Journalism Review, The Guardian"
+    },
+    {
+      "name": "Margaret Taylor",
+      "episodes": [
+        42,
+        105,
+        154
+      ],
+      "twitter": "MargLTaylor",
+      "url": "https://www.brookings.edu/experts/margaret-l-taylor/",
+      "notes": "Senior Editor & Counsel at Lawfare; fellow at Brookings; former SFRC Chief Counsel"
+    },
+    {
+      "name": "Alex Macgillivray",
+      "episodes": [
+        41
+      ],
+      "twitter": "amac",
+      "url": "http://www.bricoleur.org/",
+      "notes": "Former Deputy US CTO (Twitter, Google)"
+    },
+    {
+      "name": "Nicole Wong",
+      "episodes": [
+        41
+      ],
+      "twitter": "nicolewong",
+      "url": "https://nicolesbio.tumblr.com/",
+      "notes": "Former Deputy US CTO, Legal Director (Twitter), VP & Deputy general counsel (Google)"
+    },
+    {
+      "name": "Will DeWitt",
+      "episodes": [
+        40
+      ]
+    },
+    {
+      "name": "Dahlia Lithwick",
+      "episodes": [
+        39,
+        105,
+        203
+      ],
+      "twitter": "dahlialithwick",
+      "notes": "Writer and journalist; contributing editor at Newsweek, senior editor at Slate"
+    },
+    {
+      "name": "Leah Litman",
+      "episodes": [
+        39,
+        81,
+        95,
+        102,
+        105,
+        203
+      ],
+      "twitter": "LeahLitman",
+      "url": "http://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lmlitman",
+      "notes": "Law professor, constitutional law & federal courts; co-host of \"Strict Scrutiny\" podcast"
+    },
+    {
+      "name": "Jeff Horwitz",
+      "episodes": [
+        38,
+        171
+      ],
+      "twitter": "JeffHorwitz",
+      "notes": "Journalist at Wall Street Journal; bee-keeper"
+    },
+    {
+      "name": "Seth Magaziner",
+      "episodes": [
+        36
+      ],
+      "twitter": "SethMagaziner",
+      "url": "https://sethmagaziner.com/",
+      "notes": "General Treasurer for the State of Rhode Island"
+    },
+    {
+      "name": "David Plotz",
+      "episodes": [
+        35
+      ],
+      "twitter": "davidplotz",
+      "notes": "Host of Slate Political Gabfest; editor-at-large at Business Insider"
+    },
+    {
+      "name": "Toomas Hendrick Ilves",
+      "episodes": [
+        34
+      ],
+      "twitter": "IlvesToomas",
+      "url": "https://www.presidentilves.ee/",
+      "notes": "Former President of Estonia (2006-2016); diplomat, journalist, member of European Parliament (2004-2006)"
+    },
+    {
+      "name": "Preet Bharara",
+      "episodes": [
+        33,
+        222
+      ],
+      "twitter": "PreetBharara",
+      "notes": "Former U.S. Attorney for the Southern District of New York; podcaster extraordinaire"
+    },
+    {
+      "name": "Ada Palmer",
+      "episodes": [
+        32,
+        98
+      ],
+      "twitter": "Ada_Palmer",
+      "url": "https://adapalmer.com/",
+      "notes": "Historian, SF/Fantasy author, and composer"
+    },
+    {
+      "name": "Yascha Mounk",
+      "episodes": [
+        31,
+        37
+      ],
+      "twitter": "Yascha_Mounk",
+      "notes": "Professor of Information Studies; contributing editor at The Atlantic"
+    },
+    {
+      "name": "Sarah Longwell",
+      "episodes": [
+        31,
+        147,
+        180,
+        189,
+        208,
+        220
+      ],
+      "twitter": "SarahLongwell25",
+      "url": "https://thebulwark.com/author/sarah-longwell/",
+      "notes": "Publisher of The Bulwark, founder of Republican Voters Against Trump 2020"
+    },
+    {
+      "name": "Noah Feldman",
+      "episodes": [
+        29
+      ],
+      "twitter": "NoahRFeldman",
+      "url": "http://noah-feldman.squarespace.com/",
+      "notes": "Harvard Law professor, columnist for Bloomberg Opinion; host of \"Deep Background\" podcast"
+    },
+    {
+      "name": "Kate Darling",
+      "episodes": [
+        28
+      ],
+      "twitter": "grok_",
+      "url": "http://www.katedarling.org/",
+      "notes": "Human-robot interaction, tech policy & ethics; MIT Media Lab \"Mistress of Machines\""
+    },
+    {
+      "name": "Randy Barnett",
+      "episodes": [
+        27
+      ],
+      "twitter": "RandyEBarnett",
+      "url": "http://www.randybarnett.com/",
+      "notes": "Georgetown Law professor, author"
+    },
+    {
+      "name": "Molly Jong-Fast",
+      "episodes": [
+        26,
+        159,
+        200
+      ],
+      "twitter": "MollyJongFast",
+      "url": "https://www.instagram.com/mollyjongfast/",
+      "notes": "Editor-at-large, The Daily Beast; co-host of \"The New Abnormal\" podcast"
+    },
+    {
+      "name": "Lisa Page",
+      "episodes": [
+        26,
+        219
+      ],
+      "twitter": "natseclisa",
+      "notes": "National security & tech lawyer; former federal prosecutor; legal analyst"
+    },
+    {
+      "name": "Yorrick \"YoRock\" Anderson",
+      "episodes": [
+        24
+      ],
+      "url": "https://www.tapology.com/fightcenter/fighters/201304-yorrick-anderson",
+      "notes": "Mixed martial-arts fighter, personal trainer"
+    },
+    {
+      "name": "Carrie Goldberg",
+      "episodes": [
+        24,
+        90,
+        143
+      ],
+      "twitter": "cagoldberglaw",
+      "url": "https://www.cagoldberglaw.com/",
+      "notes": "Victims' rights attorney, crusader against revenge porn"
+    },
+    {
+      "name": "Hannah Neprash",
+      "episodes": [
+        22,
+        45
+      ],
+      "twitter": "hannahneprash",
+      "notes": "Health economist, professor of public health"
+    },
+    {
+      "name": "Quinta Jurecic",
+      "episodes": [
+        20,
+        63
+      ],
+      "twitter": "qjurecic",
+      "notes": "Managing editor at Lawfare; contributing writer at The Atlantic"
+    },
+    {
+      "name": "Jillian York",
+      "episodes": [
+        19
+      ],
+      "twitter": "jilliancyork",
+      "notes": "Writer and activist"
+    },
+    {
+      "name": "Sarah Roberts",
+      "episodes": [
+        19
+      ],
+      "twitter": "ubiquity75",
+      "url": "https://www.behindthescreen-book.com/",
+      "notes": "Professor of Information Studies; commercial content moderation & social media"
+    },
+    {
+      "name": "Evelyn Douek",
+      "episodes": [
+        18,
+        41
+      ],
+      "twitter": "evelyndouek",
+      "url": "https://www.evelyndouek.com/",
+      "notes": "Lecturer on law & doctoral candidate, Harvard Law School"
+    },
+    {
+      "name": "Jonathan Rauch",
+      "episodes": [
+        17,
+        73,
+        106,
+        206,
+        209,
+        230
+      ],
+      "twitter": "jon_rauch",
+      "url": "https://www.jonathanrauch.com/",
+      "notes": "Senior Fellow at Brookings Institution; contributing writer at The Atlantic"
+    },
+    {
+      "name": "Doug Bernstein",
+      "episodes": [
+        15
+      ],
+      "notes": "An emergency room physician in Virginia"
+    },
+    {
+      "name": "Kori Schake",
+      "episodes": [
+        14,
+        207
+      ],
+      "twitter": "KoriSchake",
+      "url": "https://www.aei.org/profile/kori-schake/",
+      "notes": "Director of Foreign and Defense Policy Studies at American Enterprise Institute"
+    },
+    {
+      "name": "Mike Pesca",
+      "episodes": [
+        13,
+        80,
+        229
+      ],
+      "twitter": "pescami",
+      "notes": "Host of \"The Gist\" daily podcast; NPR contributor, editor"
+    },
+    {
+      "name": "Virginia Heffernan",
+      "episodes": [
+        13,
+        67,
+        137,
+        216,
+        225
+      ],
+      "twitter": "page88",
+      "url": "https://vpheffernan.com/",
+      "notes": "Journalist, critic, and author; contributing editor at WIRED; co-host of \"Trumpcast\""
+    },
+    {
+      "name": "Alan Rozenshtein",
+      "episodes": [
+        12,
+        45,
+        161,
+        185,
+        223
+      ],
+      "twitter": "ARozenshtein",
+      "notes": "Law professor, contributing editor at Lawfare; former Justice Department lawyer"
+    },
+    {
+      "name": "Nate Persily",
+      "episodes": [
+        11,
+        125,
+        132,
+        173
+      ],
+      "twitter": "persily",
+      "url": "https://law.stanford.edu/directory/nathaniel-persily/",
+      "notes": "Law professor, Co-Director of Stanford Cyber Policy Center, Healthy Elections Project"
+    },
+    {
+      "name": "Scott Shapiro",
+      "episodes": [
+        10,
+        25,
+        148,
+        182,
+        220
+      ],
+      "twitter": "scottjshapiro",
+      "notes": "Professor of Law & Philosophy at Yale; jurisprude"
+    },
+    {
+      "name": "Dan Drezner",
+      "episodes": [
+        10,
+        21,
+        131,
+        164,
+        218
+      ],
+      "twitter": "dandrezner",
+      "notes": "Professor at the Fletcher School of Tufts University; author"
+    },
+    {
+      "name": "Amanda Sloat",
+      "episodes": [
+        8
+      ],
+      "twitter": "A_Sloat",
+      "notes": "Senior Fellow at Brookings, fellow at Harvard Belfer, former House Foreign Affairs Committee"
+    },
+    {
+      "name": "Jordan Ellenberg",
+      "episodes": [
+        7,
+        243
+      ],
+      "twitter": "JSEllenberg",
+      "url": "http://www.jordanellenberg.com/",
+      "notes": "Mathematics professor, number theorist and algebraic geometer; author"
+    },
+    {
+      "name": "Jack Balkin",
+      "episodes": [
+        7,
+        63,
+        145,
+        197
+      ],
+      "twitter": "jackbalkin",
+      "url": "https://jackbalkin.yale.edu/",
+      "notes": "Constitutional law professor, and Director of Yale ISP"
+    },
+    {
+      "name": "Jon Turk",
+      "episodes": [
+        6
+      ],
+      "url": "http://www.jonturk.net/",
+      "notes": "Adventurer, explorer, and author"
+    },
+    {
+      "name": "Orin Kerr",
+      "episodes": [
+        5,
+        25
+      ],
+      "twitter": "orinkerr",
+      "url": "https://www.orinkerr.com/",
+      "notes": "Lawyer and law professor specializing in criminal procedure and computer crime law"
+    },
+    {
+      "name": "Ross Garber",
+      "episodes": [
+        3
+      ],
+      "twitter": "rossgarber",
+      "notes": "Political investigations and impeachment lawyer; professor, writer, commentator"
+    },
+    {
+      "name": "Emily Hurson",
+      "episodes": [
+        3
+      ],
+      "twitter": "Limeshy",
+      "notes": "Stage, screen and voice actor, screenwriter and playwright"
+    },
+    {
+      "name": "Cory Doctorow",
+      "episodes": [
+        3
+      ],
+      "twitter": "doctorow",
+      "url": "https://pluralistic.net/",
+      "notes": "Blogger, journalist, and science fiction author"
+    },
+    {
+      "name": "Ken White",
+      "episodes": [
+        3,
+        49,
+        217
+      ],
+      "twitter": "popehat",
+      "url": "https://www.popehat.com/",
+      "notes": "First Amendment litigator and criminal defense attorney"
+    },
+    {
+      "name": "Mike Chase",
+      "episodes": [
+        3,
+        112,
+        126,
+        216
+      ],
+      "twitter": "TheMikeChase",
+      "notes": "Criminal defense attorney, author, and maintainer of @CrimeADay"
+    },
+    {
+      "name": "Alex Stamos",
+      "episodes": [
+        2,
+        11,
+        68,
+        158
+      ],
+      "twitter": "alexstamos",
+      "url": "https://cyber.fsi.stanford.edu/io",
+      "notes": "Director of the Stanford Internet Observatory and former CISO of Facebook"
+    },
+    {
+      "name": "Maggie Feldman-Piltch",
+      "episodes": [
+        2,
+        21
+      ],
+      "twitter": "maggiecaroline1",
+      "notes": "Managing Director of Unicorn Strategies and Founder of #NatSecGirlSquad"
+    },
+    {
+      "name": "Anna Salvatore",
+      "episodes": [
+        1,
+        104,
+        234
+      ],
+      "twitter": "hischoolscotus",
+      "url": "https://highschoolscotus.wordpress.com/",
+      "notes": "Founder of High School SCOTUS, a legal blog written by teenagers"
+    },
+    {
+      "name": "Danielle Citron",
+      "episodes": [
+        0,
+        4,
+        155
+      ],
+      "twitter": "daniellecitron",
+      "url": "https://www.daniellecitron.com/",
+      "notes": "Professor of Law, author, and privacy expert"
+    }
+  ]
+}
